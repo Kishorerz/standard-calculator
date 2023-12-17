@@ -155,7 +155,8 @@ form input.operator{
 ```
 
 ## OUTPUT:
-![output](output.png)
+![output](https://github.com/Kishorerz/standard-calculator/assets/144451216/484eb1b0-c061-4ec1-acae-9e6888ee44fb)
+
 
 ## Result:
 The program run successfuly.
